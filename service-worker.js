@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/girishtunk/robohashbuddies/precache-manifest.deb94b982575867ea1e3bcc638720aa9.js"
+  "/robohashbuddies/precache-manifest.1575e3b6b2757487f555b52db0ab839b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/girishtunk/robohashbuddies/index.html", {
+workbox.routing.registerNavigationRoute("/robohashbuddies/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

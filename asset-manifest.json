@@ -1,15 +1,15 @@
 {
-  "main.css": "/girishtunk/robohashbuddies/static/css/main.6d043359.chunk.css",
-  "main.js": "/girishtunk/robohashbuddies/static/js/main.662fe660.chunk.js",
-  "main.js.map": "/girishtunk/robohashbuddies/static/js/main.662fe660.chunk.js.map",
-  "static/css/1.641d94cd.chunk.css": "/girishtunk/robohashbuddies/static/css/1.641d94cd.chunk.css",
-  "static/js/1.9b2a21af.chunk.js": "/girishtunk/robohashbuddies/static/js/1.9b2a21af.chunk.js",
-  "static/js/1.9b2a21af.chunk.js.map": "/girishtunk/robohashbuddies/static/js/1.9b2a21af.chunk.js.map",
-  "runtime~main.js": "/girishtunk/robohashbuddies/static/js/runtime~main.abc46897.js",
-  "runtime~main.js.map": "/girishtunk/robohashbuddies/static/js/runtime~main.abc46897.js.map",
-  "static/css/main.6d043359.chunk.css.map": "/girishtunk/robohashbuddies/static/css/main.6d043359.chunk.css.map",
-  "static/css/1.641d94cd.chunk.css.map": "/girishtunk/robohashbuddies/static/css/1.641d94cd.chunk.css.map",
-  "index.html": "/girishtunk/robohashbuddies/index.html",
-  "precache-manifest.deb94b982575867ea1e3bcc638720aa9.js": "/girishtunk/robohashbuddies/precache-manifest.deb94b982575867ea1e3bcc638720aa9.js",
-  "service-worker.js": "/girishtunk/robohashbuddies/service-worker.js"
+  "main.css": "/robohashbuddies/static/css/main.6d043359.chunk.css",
+  "main.js": "/robohashbuddies/static/js/main.b57c75e5.chunk.js",
+  "main.js.map": "/robohashbuddies/static/js/main.b57c75e5.chunk.js.map",
+  "static/css/1.641d94cd.chunk.css": "/robohashbuddies/static/css/1.641d94cd.chunk.css",
+  "static/js/1.9b2a21af.chunk.js": "/robohashbuddies/static/js/1.9b2a21af.chunk.js",
+  "static/js/1.9b2a21af.chunk.js.map": "/robohashbuddies/static/js/1.9b2a21af.chunk.js.map",
+  "runtime~main.js": "/robohashbuddies/static/js/runtime~main.4869548d.js",
+  "runtime~main.js.map": "/robohashbuddies/static/js/runtime~main.4869548d.js.map",
+  "static/css/1.641d94cd.chunk.css.map": "/robohashbuddies/static/css/1.641d94cd.chunk.css.map",
+  "static/css/main.6d043359.chunk.css.map": "/robohashbuddies/static/css/main.6d043359.chunk.css.map",
+  "index.html": "/robohashbuddies/index.html",
+  "precache-manifest.1575e3b6b2757487f555b52db0ab839b.js": "/robohashbuddies/precache-manifest.1575e3b6b2757487f555b52db0ab839b.js",
+  "service-worker.js": "/robohashbuddies/service-worker.js"
 }

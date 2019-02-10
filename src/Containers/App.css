@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy|Pacifico');
+
+body {
+  background-image: linear-gradient(red, orange);
+  overflow-y: hidden;
+}
+
+h2 {
+  font-family: 'Luckiest Guy';
+  font-size: 300%;
+  margin: 5px;
+  letter-spacing: 2px;
+}
+
+#robocards h2 {
+  font-family: 'Pacifico', cursive;
+  font-size: 120%;
+}
